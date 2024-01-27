@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projeto-bfc"
+    }
+  },
+  "defaultProject": "projeto-bfc",
+  "cli": {
+    "analytics": false
+  }
 }
